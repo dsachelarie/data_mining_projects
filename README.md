@@ -2,4 +2,5 @@
 Various projects made for the course *Methods of Data Mining* from **Aalto University**. Contains:
 - *curse_of_dimensionality* - an analysis of distance measures and how informative they are in high-dimensional spaces;
 - *clustering* - implementations of spectral and hierarchical clusterings;
+- *association_mining* - filtering of a set of associations;
 - 
